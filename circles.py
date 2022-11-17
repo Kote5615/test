@@ -3,6 +3,7 @@ from PyQt5.QtGui import QPainter, QPixmap, QPen, QColor
 from PyQt5.QtCore import Qt
 from PyQt5 import uic
 from random import randint
+# zdkvoj
 
 
 class Test(QMainWindow):
